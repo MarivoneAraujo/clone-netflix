@@ -4,6 +4,9 @@
 ![image](https://user-images.githubusercontent.com/74380088/132112097-a6f994e4-f1a6-471c-8be4-b4aa90ef3e3f.png)
 
 
+###  📃  Página finalizada:
+
+Acesse [ aqui](https://incandescent-society.surge.sh/) para visualização rápida.
 
 ### 📰  The project:
 
