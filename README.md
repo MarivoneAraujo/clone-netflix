@@ -29,4 +29,4 @@ $ git clone https://github.com/MarivoneAraujo/clone-netflix.git```
 
 Run the project with live server
 
-### Developed by Marivone Araújo, em 09/2021.
+### Developed by Marivone Araújo, in 09/2021.
